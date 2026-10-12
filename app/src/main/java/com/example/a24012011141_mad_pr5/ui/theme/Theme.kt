@@ -1,4 +1,4 @@
-package com.example.a24012011122_mad_pr5.ui.theme
+package com.example.a24012011141_mad_pr5.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -36,7 +36,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun _24012011122_Mad_pr5Theme(
+fun _24012011141_mad_pr5Theme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

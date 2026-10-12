@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.a24012011122_mad_pr5"
+    namespace = "com.example.a24012011141_mad_pr5"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.a24012011122_mad_pr5"
+        applicationId = "com.example.a24012011141_mad_pr5"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

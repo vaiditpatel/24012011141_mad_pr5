@@ -1,4 +1,4 @@
-package com.example.a24012011122_mad_pr5.ui.theme
+package com.example.a24012011141_mad_pr5.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

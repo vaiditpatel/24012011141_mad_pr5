@@ -1,4 +1,4 @@
-package com.example.a24012011122_mad_pr5
+package com.example.a24012011141_mad_pr5
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,14 +8,14 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.example.a24012011122_mad_pr5.ui.theme._24012011122_Mad_pr5Theme
+import com.example.a24012011141_mad_pr5.ui.theme._24012011141_mad_pr5Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            _24012011122_Mad_pr5Theme {
+            _24012011141_mad_pr5Theme {
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background

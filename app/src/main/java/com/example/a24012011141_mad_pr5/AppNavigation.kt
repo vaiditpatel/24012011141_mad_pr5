@@ -1,11 +1,11 @@
-package com.example.a24012011122_mad_pr5
+package com.example.a24012011141_mad_pr5
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.a24012011122_mad_pr5.screen.LoginPage
-import com.example.a24012011122_mad_pr5.screen.RegisterPage
+import com.example.a24012011141_mad_pr5.screen.LoginPage
+import com.example.a24012011141_mad_pr5.screen.RegisterPage
 
 @Composable
 fun AppNavigation() {

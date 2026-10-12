@@ -1,4 +1,4 @@
-package com.example.a24012011122_mad_pr5.screen
+package com.example.a24012011141_mad_pr5.screen
 
 import android.util.Patterns
 import android.widget.Toast
@@ -25,8 +25,8 @@ import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.example.a24012011122_mad_pr5.R
-import com.example.a24012011122_mad_pr5.ui.theme.GuniPink
+import com.example.a24012011141_mad_pr5.R
+import com.example.a24012011141_mad_pr5.ui.theme.GuniPink
 
 @Composable
 fun RegisterPage(navController: NavController) {
@@ -172,7 +172,7 @@ fun RegisterFormRow(
 @androidx.compose.ui.tooling.preview.Preview(showBackground = true)
 @Composable
 fun RegisterPagePreview() {
-    com.example.a24012011122_mad_pr5.ui.theme._24012011122_Mad_pr5Theme {
+    com.example.a24012011141_mad_pr5.ui.theme._24012011141_mad_pr5Theme {
         RegisterPage(navController = androidx.navigation.compose.rememberNavController())
     }
 }

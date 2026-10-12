@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "24012011122_Mad_pr5"
+rootProject.name = "24012011141_mad_pr5"
 include(":app")
